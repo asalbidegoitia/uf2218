@@ -36,7 +36,7 @@
 					<a class="dropdown-item" href="backoffice/videos?op=1">Formulario</a>
 					<a class="dropdown-item" href="backoffice/videos?op=13">Detalle</a>
 					-->
-				</div>
+				</div> 
 			</li>	
 		</ul>
 		<ul class="navbar-nav mr-auto">
